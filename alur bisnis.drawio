@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="24.7.8">
   <diagram name="Halaman-1" id="cl6RqFVlhVStTV8-cck9">
-    <mxGraphModel>
+    <mxGraphModel dx="1058" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-0PnX_AkzMfoX4GCeiP9-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-0PnX_AkzMfoX4GCeiP9-1" target="-0PnX_AkzMfoX4GCeiP9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-0PnX_AkzMfoX4GCeiP9-1" value="Pulang Sekolah" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="90" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-0PnX_AkzMfoX4GCeiP9-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-0PnX_AkzMfoX4GCeiP9-3" target="-0PnX_AkzMfoX4GCeiP9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-0PnX_AkzMfoX4GCeiP9-3" value="Siswa Piket Beres-Beres" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="90" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-0PnX_AkzMfoX4GCeiP9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-0PnX_AkzMfoX4GCeiP9-5" target="-0PnX_AkzMfoX4GCeiP9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-0PnX_AkzMfoX4GCeiP9-5" value="Dipastikan Kelas Sudah Bersih" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="90" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-0PnX_AkzMfoX4GCeiP9-7" value="Pulang" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="90" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
