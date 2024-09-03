@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="Page-1" id="vPvAzhzkpbuqaPbokkFA">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3LgJc-feKaj-sIW6esbH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LgJc-feKaj-sIW6esbH-5" target="3LgJc-feKaj-sIW6esbH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3LgJc-feKaj-sIW6esbH-5" value="Siswa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="190" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3LgJc-feKaj-sIW6esbH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LgJc-feKaj-sIW6esbH-6" target="3LgJc-feKaj-sIW6esbH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3LgJc-feKaj-sIW6esbH-6" value="Pulang Sekolah" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3LgJc-feKaj-sIW6esbH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LgJc-feKaj-sIW6esbH-8" target="3LgJc-feKaj-sIW6esbH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3LgJc-feKaj-sIW6esbH-8" value="Siswa Piket Beres-Beres" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="190" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3LgJc-feKaj-sIW6esbH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LgJc-feKaj-sIW6esbH-10" target="3LgJc-feKaj-sIW6esbH-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3LgJc-feKaj-sIW6esbH-10" value="Pastikan Kelas Bersih" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="190" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3LgJc-feKaj-sIW6esbH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3LgJc-feKaj-sIW6esbH-12" target="3LgJc-feKaj-sIW6esbH-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3LgJc-feKaj-sIW6esbH-12" value="Siswa Mengisi Form Piket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="190" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3LgJc-feKaj-sIW6esbH-14" value="W.A Notip" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="190" width="110" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
